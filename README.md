@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sreeharicsunil/Sreehari_C/main/Creating_ASCII_art_avatar_4135aef2_2K.jpg"
+  <img src="https://github.com/sreeharicsunil/sreeharicsunil/blob/main/assets/Creating_ASCII_art_avatar_4135aef2_2K.jpg"
        width="200"
        alt="Sreehari ASCII avatar">
 </p>
