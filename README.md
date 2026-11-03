@@ -22,15 +22,21 @@
        alt="Typing animation">
 </p>
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/sreehari-chaliyeduth/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="mailto:sreehari.chaliyeduth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Fresher%20%7C%20Intern-2EA44F?style=for-the-badge" alt="Open to work">
+  &nbsp;
+  <a href="https://github.com/sreeharicsunil">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=flat" alt="Open to Work">
+  </a>
 </p>
+
 
 ---
 
